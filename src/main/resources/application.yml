@@ -9,5 +9,5 @@ spring:
             enabled: false
         git:
           uri: https://github.com/BrunoRFernandes/microservice-rep
-          search-paths: fornecedor        
+          search-paths: fornecedor, loja, transportador        
 
